@@ -3,6 +3,6 @@
 from __future__ import absolute_import
 from .easydict import *
 
-__version__ = '0.01'
+__version__ = '0.1'
 
 __author__ = 'banxi'
