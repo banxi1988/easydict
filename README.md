@@ -1,0 +1,2 @@
+# easydict
+make dict easy
